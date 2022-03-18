@@ -27,9 +27,9 @@ aprPercentage = 0.9;
 
 myWallet = 1.25m;
 
-Console.WriteLine($"Someday I hope to buy one of these cars {car}. If I bought all 3 cars, it would cost over {price}. " +
-    $"I like those {all}. " + $"Is it true that these auto makers offer good financing options? {goodFinance}. " +
-    $"They usually offer low interest rates for financing {aprPercentage}. " + $"Someday I will get one these cars because right now all I have in my wallet is {myWallet}.");
+Console.WriteLine($"Someday I hope to buy one of these cars {car}.\n " + $"If I bought all 3 cars, it would cost over {price}.\n " +
+    $"I like those {all}. " + $"Is it true that these auto makers offer good financing options? {goodFinance}.\n " +
+    $"They usually offer low interest rates for financing {aprPercentage}.\n " + $"Someday I will get one these cars because right now all I have in my wallet is {myWallet}.");
 
 
 
