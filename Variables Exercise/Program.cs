@@ -15,10 +15,10 @@ decimal myWallet;
 
 // Variable Initializations
 
-car = "Toyota Land Cruiser" + "Jeep Wrangler Rubicon" + "Hyundai Palisade";
+car = "Toyota Land Cruiser, Jeep Wrangler Rubicon, Hyundai Palisade";
 
 price = 90000 + 60000 + 55000;
-
+ 
 all = '3';
 
 goodFinance = true;
