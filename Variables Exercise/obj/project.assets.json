@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joe_p\\Desktop\\Repos\\Variables Exercise\\Variables Exercise\\Variables Exercise.csproj",
+      "projectUniqueName": "C:\\Users\\joe_p\\Desktop\\Repos\\Variables_ Exercise\\Variables Exercise\\Variables Exercise.csproj",
       "projectName": "Variables Exercise",
-      "projectPath": "C:\\Users\\joe_p\\Desktop\\Repos\\Variables Exercise\\Variables Exercise\\Variables Exercise.csproj",
+      "projectPath": "C:\\Users\\joe_p\\Desktop\\Repos\\Variables_ Exercise\\Variables Exercise\\Variables Exercise.csproj",
       "packagesPath": "C:\\Users\\joe_p\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joe_p\\Desktop\\Repos\\Variables Exercise\\Variables Exercise\\obj\\",
+      "outputPath": "C:\\Users\\joe_p\\Desktop\\Repos\\Variables_ Exercise\\Variables Exercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joe_p\\AppData\\Roaming\\NuGet\\NuGet.Config",
